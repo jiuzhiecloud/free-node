@@ -1,7 +1,6 @@
 ## Hi there 👋
 免费节点订阅地址：
 
-更新于
 
 需要稳定节点，尝试私人定制vpn节点服务
 
@@ -23,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+> ⏱️ 节点状态最后自动更新于 2026-05-08 13:53:51
