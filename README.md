@@ -1,5 +1,5 @@
 ## Hi there 👋
-免费节点订阅地址：
+免费节点订阅地址：https://raw.githubusercontent.com/jiuzhiecloud/Cloud_Tech/refs/heads/main/data/sub.txt
 
 
 需要稳定节点，尝试私人定制vpn节点服务
