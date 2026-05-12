@@ -6,7 +6,8 @@
 
 畅游国际互联
 
-<img width="128" height="228" alt="402c35158942b63d45a6ea7ef02af495" src="https://github.com/user-attachments/assets/373353c2-dbef-460e-b1d5-8beb6fe077b2" />
+<img width="256" height="456" alt="aeef3c4bdd1b24a46365b6eb741052ce" src="https://github.com/user-attachments/assets/81b158bb-764f-446b-8a09-79211640313b" />
+
 进Q群获取
 
 email:jiuzhiecloud@gmail.com
