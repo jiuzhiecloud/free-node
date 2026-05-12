@@ -2,9 +2,12 @@
 免费节点订阅地址：https://raw.githubusercontent.com/jiuzhiecloud/free-node/refs/heads/main/data/sub.txt
 免费节点质量和稳定性一般。
 
-想要自建稳定节点，有需要的可以联系一起参与
+尝试自建稳定节点，有需要的可以联系一起参与
 
 畅游国际互联
+
+<img width="1284" height="2283" alt="402c35158942b63d45a6ea7ef02af495" src="https://github.com/user-attachments/assets/373353c2-dbef-460e-b1d5-8beb6fe077b2" />
+进Q群获取
 
 email:jiuzhiecloud@gmail.com
 
