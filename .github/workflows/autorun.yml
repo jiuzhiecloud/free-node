@@ -6,6 +6,10 @@ on:
     - cron: '0 */4 * * *' # 每 4 小时自动触发一次
   workflow_dispatch:      # 允许你在网页端手动点击运行
 
+# 添加全局环境变量，强制让 JavaScript Actions 使用 Node.js 24 运行，消除 Node.js 20 弃用警告
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   update:
     runs-on: ubuntu-latest
